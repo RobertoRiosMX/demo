@@ -13,7 +13,7 @@ def subnet_calc():
         #Ask for an IP Address
         #Checking IP address validity
         while True:
-            ip_address = input("Enter an IP address: ")
+            ip_address = input("Enter a valid IP address: ")
 
             #Create the list "a" from ip_address
             #List elements from splitting IP Address by "."
