@@ -1,8 +1,4 @@
-<<<<<<< HEAD
         ############# IP Calculator - Demo change 3 #############
-=======
-        ############# IP Calculator - Demo change 4 #############
->>>>>>> 05e0727c1c8369764596984e10a3e9c70ae6e732
 
 import random
 import sys
