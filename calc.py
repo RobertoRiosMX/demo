@@ -1,4 +1,4 @@
-        ############# IP Calculator - Parte #123 #############
+        ############# IP Calculator - Parte #1 #############
 
 import random
 import sys
@@ -13,7 +13,7 @@ def subnet_calc():
         #Ask for an IP Address
         #Checking IP address validity
         while True:
-            ip_address = input("Enter an user IP address: ")
+            ip_address = input("Enter an IP address: ")
 
             #Create the list "a" from ip_address
             #List elements from splitting IP Address by "."
