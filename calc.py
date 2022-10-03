@@ -1,4 +1,4 @@
-        ############# IP Calculator - Demo change FW On #############
+        ############# IP Calculator - Demo change FW Off #############
 
 import random
 import sys
