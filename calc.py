@@ -1,7 +1,4 @@
-<<<<<<< HEAD
         ############# IP Calculator - test bk #############
->>>>>>> 123117098c76451bdaf2cd9ba6dd16224c89fda0
->>>>>>> d187f835a045a8a4619ade6806d02e0f99b6ee36
 
 import random
 import sys
