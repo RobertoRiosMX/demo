@@ -1,5 +1,4 @@
-        ############# IP Calculator - Demo change 1234 #############
->>>>>>> d187f835a045a8a4619ade6806d02e0f99b6ee36
+        ############# IP Calculator - Demo Test 123 #############
 
 import random
 import sys
@@ -7,7 +6,7 @@ import sys
 def subnet_calc():
     #ip_address = 0
     #subnet_mask = 0
-    try:
+     try:
         print ("\n")
         print ("Designed by XYZ")
         print ("Hello world")
