@@ -1,6 +1,4 @@
-        ############# IP Calculator - Demo change 1234 #############
->>>>>>> d187f835a045a8a4619ade6806d02e0f99b6ee36
-
+############# IP Calculator - Demo change 1234 #############
 import random
 import sys
 
