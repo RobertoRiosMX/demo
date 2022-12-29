@@ -1,7 +1,4 @@
-# DEMO LAB 29/dec/2022 / FW On / PC3
-#!/usr/bin/env python3
-# Use: ./subnet.py <ip/cidr>
-# Alt: ./subnet.py <ip> <mask>
+        ############# IP Calculator - test bk #############
 
 import sys
 
