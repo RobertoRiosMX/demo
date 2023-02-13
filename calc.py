@@ -1,5 +1,5 @@
 # DEMO LAB 29/dec/2022 / FW On 2
-# TEST 4
+# TEST 5
 #!/usr/bin/env python3
 # Use: ./subnet.py <ip/cidr>
 # Alt: ./subnet.py <ip> <mask>
