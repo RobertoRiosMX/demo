@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# DEMO LAB 16/may/2023 / FW Off
+# DEMO LAB 16/may/2023 / FW on seconed attempt
 import sys
 
 if __name__=="__main__":
