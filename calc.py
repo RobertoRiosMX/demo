@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# DEMO LAB 16/may/2023 / FW On 2
+# DEMO LAB 16/may/2023 / FW Off
 import sys
 
 if __name__=="__main__":
