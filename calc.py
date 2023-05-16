@@ -1,9 +1,5 @@
+<<<<<<< HEAD
 # DEMO LAB 16/may/2023 / FW On 2
-# Test 1234
-#!/usr/bin/env python3
-# Use: ./subnet.py <ip/cidr>
-# Alt: ./subnet.py <ip> <mask>
-
 import sys
 
 if __name__=="__main__":
