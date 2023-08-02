@@ -1,4 +1,4 @@
-# DEMO LAB 29/dec/2022 / FW On
+# DEMO LAB 01/ago/2023 / FW On
 #!/usr/bin/env python3
 # Use: ./subnet.py <ip/cidr>
 # Alt: ./subnet.py <ip> <mask>
