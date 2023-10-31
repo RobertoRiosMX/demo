@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DEMO LAB 29/oct/2023
 import sys
 
